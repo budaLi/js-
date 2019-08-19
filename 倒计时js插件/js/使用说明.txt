@@ -1,0 +1,7 @@
+使用说明: 
+
+countdown.js  为60秒倒计时插件，依赖于jquery
+
+在获取验证码的按钮上添加  class="captchaBtn"  即可
+
+源码比较简单，如果想修改倒计时秒数，可直接修改 var seconds = 60行。 
